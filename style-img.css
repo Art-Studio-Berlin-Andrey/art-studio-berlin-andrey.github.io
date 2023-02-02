@@ -1,0 +1,53 @@
+
+body{
+  
+  
+  background-image: url("gif2.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*background-image: linear-gradient(to bottom right, rgb(2, 64, 66), rgb(199, 217, 217));*/
+
+
+}
+
+header{
+
+  font-family:  'Brush Script MT', cursive;
+
+  text-align: center;
+
+  color: #3d3232;
+
+  text-shadow: 2px 2px 4px #ede6e6;
+
+
+
+}
+
+section {
+
+  font-family:  'Brush Script MT', cursive;
+
+  text-align: center;
+
+  color: #f5f3f3;
+
+  text-shadow: 2px 2px 4px #000000;
+
+
+
+}
+
+footer{
+
+  font-family:  'Brush Script MT', cursive;
+
+  text-align: center;
+
+  color: #f1dd96;
+
+  text-shadow: 2px 2px 4px #000000;
+
+
+
+}
