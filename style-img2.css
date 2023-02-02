@@ -2,8 +2,8 @@ body{
   
   
     background-image: url("gif1.gif");
-    background-repeat: no-repeat;
-    background-size: cover;
+    /*background-repeat: no-repeat;
+    background-size: cover;*/
     /*background-image: linear-gradient(to bottom right, rgb(2, 64, 66), rgb(199, 217, 217));*/
   
   
